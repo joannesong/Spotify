@@ -58,17 +58,3 @@ public class JSONFragment extends Fragment {
     //control o helps you look for your methods for lifecycle!!!!!!!!!!!
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
